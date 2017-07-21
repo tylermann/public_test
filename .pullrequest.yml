@@ -1,4 +1,5 @@
 engines:
     - jshint
     - pycodestyle
+    - pylint
     - todofixme
