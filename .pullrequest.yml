@@ -2,5 +2,7 @@ engines:
     eslint:
     jshint:
     pycodestyle:
+        exclude_paths:
+            - "python/*"
     pylint:
     todofixme:
