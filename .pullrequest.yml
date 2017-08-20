@@ -1,6 +1,6 @@
 engines:
-    - eslint
-    - jshint
-    - pycodestyle
-    - pylint
-    - todofixme
+    eslint:
+    jshint:
+    pycodestyle:
+    pylint:
+    todofixme:
