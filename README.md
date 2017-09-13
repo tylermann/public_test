@@ -2,6 +2,3 @@
 
 Public test repo
 
-
-FIXME
-
