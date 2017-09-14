@@ -1,3 +1,6 @@
 engines:
     eslint:
     pycodestyle:
+        exclude_paths:
+            - "python/*"
+    todofixme:
