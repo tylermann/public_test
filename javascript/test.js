@@ -1,6 +1,6 @@
 
 //HAX:
-function main() {
+function main( {
     // FIXME
     return null
 }
