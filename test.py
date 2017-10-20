@@ -4,9 +4,16 @@ def func():
     pass
 
 
+def new_function():
+    a = 1
+    a += 1
+    a += 2
+    a += 3
+    return a
+
+
 def main():
     d = { 'hello' : 'there' }
-    pass
 
 
 if __name__ == '__main__':
