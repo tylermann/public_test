@@ -11,6 +11,9 @@ def new_function():
     a += 3
     return a
 
+def another_function():
+    return 'Another one!'
+
 
 def main():
     d = { 'hello' : 'there' }
