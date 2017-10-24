@@ -4,6 +4,10 @@ def func():
     pass
 
 
+def one_up_here():
+    pass
+
+
 def new_function():
     a = 1
     a += 1
@@ -11,8 +15,9 @@ def new_function():
     a += 3
     return a
 
-def another_function():
-    return 'Another one!'
+
+def one_down_here():
+    pass
 
 
 def main():
