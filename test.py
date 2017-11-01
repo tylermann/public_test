@@ -1,4 +1,5 @@
 # Header comment
+# Header comment number two
 import os
 
 def func():
