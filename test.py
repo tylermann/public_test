@@ -8,6 +8,10 @@ def func():
     pass
 
 
+def another_one():
+    return 'another one'
+
+
 def new_function():
     a = 1
     a += 1
