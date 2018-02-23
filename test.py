@@ -17,7 +17,7 @@ def new_function():
 
 
 def main():
-    d = { 'hello' : 'there' }
+    d = { 'hello' : 'there', 'how are': 'you' }
 
 
 if __name__ == '__main__':
