@@ -1,5 +1,6 @@
 import os
 
+# TODO: new comment
 def func():
     pass
 
@@ -10,5 +11,4 @@ def main():
 
 
 if __name__ == '__main__':
-    # FIXME: don't do this
     main()
