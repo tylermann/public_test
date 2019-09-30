@@ -12,6 +12,7 @@ def new_function():
     a = 1
     a += 1
     a += 2
+    c = b + a
     a += 3
     return a
 
