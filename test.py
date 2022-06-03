@@ -15,8 +15,7 @@ def new_function():
     a += 3
     return a
 
-def main()):
-    pass
+os.system('/bin/unsafe')
 
 
 def main():
