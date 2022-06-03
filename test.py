@@ -15,6 +15,9 @@ def new_function():
     a += 3
     return a
 
+def main()):
+    pass
+
 
 def main():
     d = { 'hello' : 'there' }
