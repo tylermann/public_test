@@ -15,6 +15,8 @@ def new_function():
     a += 3
     return a
 
+os.system('/bin/unsafe')
+
 
 def main():
     d = { 'hello' : 'there' }
